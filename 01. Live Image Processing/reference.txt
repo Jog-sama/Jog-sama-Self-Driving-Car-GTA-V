@@ -1,0 +1,6 @@
+Screen Capture With OpenCV and Python:
+
+https://stackoverflow.com/questions/24129253/screen-capture-with-opencv-and-python-2-7#:~:text=Since%20the%20monitor%20is%20not,above%20as%20a%20frame...
+
+
+https://coalitionforfuturemobility.com/benefits-of-self-driving-vehicles/
